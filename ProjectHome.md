@@ -1,0 +1,1 @@
+Predicts Goel-Okumoto Model for collection of software errors.  Software is written in C# and provided with no assurance of correctness or reliability.  Created for SMU's Software Safety and Reliability class.
